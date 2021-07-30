@@ -87,7 +87,7 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "com.alibaba.push2"
+        applicationId "com.android.notice"
         minSdkVersion 16
         targetSdkVersion 22
         versionCode 1

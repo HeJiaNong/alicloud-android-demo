@@ -156,12 +156,11 @@
         android:id="@+id/tvConsoleText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
         android:layout_above="@id/tlSetting"
-        android:textSize="20sp"
-        android:textColor="@android:color/white"
-        android:padding="5dp"
+        android:layout_alignParentTop="true"
         android:background="@drawable/aliyun_bg"
-        />
+        android:padding="5dp"
+        android:textColor="@android:color/white"
+        android:textSize="20sp" />
 
 </RelativeLayout>

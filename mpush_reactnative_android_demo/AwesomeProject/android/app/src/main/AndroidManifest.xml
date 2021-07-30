@@ -10,9 +10,8 @@
       android:icon="@mipmap/ic_launcher"
       android:theme="@style/AppTheme">
 
-      <meta-data android:name="com.alibaba.app.appkey" android:value="********"/> <!-- 请填写你自己的- appKey -->
-      <meta-data android:name="com.alibaba.app.appsecret" android:value="********"/> <!-- 请填写你自己的appSecret -->
-
+      <meta-data android:name="com.alibaba.app.appkey" android:value="333493223"/> <!-- 请填写你自己的- appKey -->
+      <meta-data android:name="com.alibaba.app.appsecret" android:value="5d7fb2bdc4624949a75ffa5c13af245c"/> <!-- 请填写你自己的appSecret -->
 
       <activity
         android:name=".MainActivity"
